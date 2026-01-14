@@ -1,0 +1,226 @@
+<page>
+    <title>Non-specific Back Pain Guideline</title>
+    <url>crawling/clinical_practice_guide\kaiser_permanente.pdf</url>
+    <content>
+        <section>
+            <sectionTitle>Background</sectionTitle>
+            <sectionContent>Back pain is a common condition that has significant impacts on patients’ function and quality of life. Clinical approaches to back pain vary considerably among providers. This guideline is intended to help primary care teams do an effective initial assessment of back pain, select appropriate interventions to maximize the patient’s function and quality of life, and minimize the use of unnecessary and potentially harmful interventions.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Key points about back pain</sectionTitle>
+            <sectionContent>• Most people experience back pain in their lifetime. • Most back pain is “non-specific,” with no specific identifiable spinal cause. • Back pain caused by serious or urgent (“red flag”) conditions is infrequent. • For most patients with back pain, the condition will improve within a few days or weeks. In the  absence of red flag conditions requiring immediate referral and treatment, the initial approach to  back pain should include evaluation with the STarT Back, followed by reassurance,  encouragement to stay active, emphasis on restoring function, and simple analgesics as needed. • Psychosocial factors are stronger predictors of prognosis than clinical factors.  • Biomedical interventions commonly used to evaluate and treat back pain—such as imaging,  medications, and epidural steroid injections—have been found to be of limited value and  effectiveness.  • Non-pharmacologic interventions can improve both pain and function (see page 7). • Acetaminophen is the preferred drug for initial treatment because of its stronger safety profile. • Opioids are rarely indicated for the treatment of back pain. Opioid prescriptions for acute back  pain, if made, should be limited to 3 days and followed by a check-back with the patient. The treatment and follow-up recommendations in this guideline apply to patients with non-specific back pain. Back pain caused by degenerative disk disease, herniated (“slipped”) disk, spinal stenosis, or other specific conditions is outside the scope of this guideline.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Virtual care and back pain</sectionTitle>
+            <sectionContent>For patients with acute or subacute low back pain, there is promising evidence that virtual care in combination with usual care may be more effective than usual care alone for decreasing pain and disability and improving physical function. Virtual encounters—by phone, chat, and video—may be particularly suitable for pain assessment and counseling interventions. Evidence suggests that video physical therapy visits for low back pain assessment produce results comparable to in-person visits in defining range of motion, pain symptoms, and mobility limitations. KPWA has several virtual care tools/systems to ensure that patients seeking care for back pain receive consistent assessment, guidance, and follow-up, regardless of where they enter the delivery system. These include Back Pain E-visits, Physical Therapy video visits, and Spine Clinical RN triage phone visits.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pain and function assessment</sectionTitle>
+            <sectionContent>To assess patients’ pain and function, use the Pain intensity, interference with Enjoyment of life, and interference with General activity (PEG) Tool. This tool is available in KP HealthConnect as the SmartPhrase .pegscore, and as a documentation flowsheet, review flowsheet, and secure message. It is also available in hard copy. PEG Tool 1. What number best describes your pain on average in the past week? 0 1 2 3 4 5 6 7 8 9 10 No pain Pain as bad as you can imagine 2. What number best describes how, during the past week, pain has interfered with your enjoyment of life? 0 1 2 3 4 5 6 7 8 9 10 Does not interfere Completely  interferes 3. What number best describes how, during the past week, pain has interfered with your  general activity? 0 1 2 3 4 5 6 7 8 9 10 Does not interfere Completely interferes</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>History and physical exam</sectionTitle>
+            <sectionContent>Discuss elements of the patient’s history that might suggest a specific cause, including: 1. This pain episode 2. Physical activity before and during this pain episode, and factors that exacerbate or alleviate the pain 3. Previous pain episodes Assess the patient for the presence and severity of neurologic deficits.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Diagnosis of non-specific back pain</sectionTitle>
+            <sectionContent>Based on history and physical exam, and after ruling out red-flag conditions (such as cancer, infection, or cauda equina syndrome), the vast majority of back pain cases can be diagnosed as non-specific, i.e., with no specific identifiable spinal cause.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Cauda equina syndrome Red flag symptoms:  • Saddle anesthesia  • Motor deficit at multiple levels • Urinary retention  • Fecal incontinence            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Significant or progressive  neurological deficits Red flag symptoms: • Progressive motor weakness • Severe or incapacitating back or leg pain (e.g., requiring hospitalization, precluding walking, or significantly limiting activities of daily living)            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Cancer  Red flag symptoms: • History of cancer with new onset low back pain • Unexplained weight loss            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Vertebral infection Red flag symptoms: • Fever • IV drug use • Recent infection            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Vertebral compression fracture or fracture due to acute injury Red flag symptoms: History of osteoporosis • Use of corticosteroids • Older age            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Red flag warning signs requiring immediate or urgent evaluation</sectionTitle>
+            <sectionContent> Possible diagnosis: Inflammatory back pain Red flag symptoms: Morning stiffness lasting longer than 30 minutes (especially upon rising) in patient under age 40            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Complexity stratification</sectionTitle>
+            <sectionContent>Stratification assesses the likelihood that a patient’s non-specific back pain will become a high-intensity health problem by accounting for psychosocial factors—such as anxiety—as well as physical factors. The recommended tool for stratifying patients with back pain is the Keele STarT Back Screening Tool, a 9-item questionnaire. The STarT Back may be filled out by patients directly as an attachment to an outgoing secure message prior to the appointment, or entered into a KP HealthConnect documentation flowsheet by the medical assistant during patient rooming. Using the STarT Back, patients are stratified into one of three categories: low complexity, medium complexity, or high complexity. Complexity levels are not synonymous with pain severity or chronicity—for example, a patient with anxiety might be categorized as high-complexity despite having relatively mild pain, while a patient who has severe pain but is confident that it will go away might be at medium complexity—and they should not be the sole factor in determining appropriate interventions. Instead, complexity levels are most useful for: • Establishing a common language for communication between clinicians and patients • Identifying conditions that might otherwise be missed (e.g., depression, anxiety, substance  abuse)  • Incorporating the patient’s psychosocial needs into the care plan            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Treatment</sectionTitle>
+            <sectionContent>The primary goal of treatment is to maximize function and quality of life, rather than to completely eliminate pain. Some ongoing or recurrent pain is normal and not indicative of a serious problem. Avoid exposing the patient to unhelpful or possibly risky interventions. As a general rule, an intervention in which the patient is an active participant (e.g., physical therapy, walking, stretching, yoga) rather than a passive recipient (e.g., chiropractic, massage, acupuncture) is deemed to have greater potential to promote self-efficacy and self-management skills in the long term. If using physically passive interventions, such as spinal manipulation, acupuncture, or relaxation techniques, introduce an active option within a week. Advise the patient to build strength and endurance gradually, moving naturally, avoiding guarded or bracing behavior, and focusing on low-impact forms of exercise. Advise the patient that there are many different interventions available, so patients should try numerous options until they find the one that works best for them </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Recommended intervention options by patient complexity: Low</sectionTitle>
+            <sectionContent> Reassurance  Education  Usual activity as able, including work Walking or other low-impact exercise Self-care Superficial heat Acetaminophen            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Recommended intervention options by patient complexity: Med</sectionTitle>
+            <sectionContent> Reassurance  Education  Usual activity as able, including work Walking or other low-impact exercise Self-care Superficial heat Acetaminophen Better Choices, Better Health Physical therapy (by video or office visit) Yoga Tai chi Relaxation therapy (meditation, progressive muscle relaxation,  biofeedback, guided visualization) Acupuncture  Spinal manipulation (chiropractic)  Massage NSAIDs  Duloxetine Physical Medicine &#38; Rehabilitation/Spine Care Clinic (where  available)            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Recommended intervention options by patient complexity: High</sectionTitle>
+            <sectionContent> Reassurance  Education  Usual activity as able, including work Walking or other low-impact exercise Self-care Superficial heat Acetaminophen Better Choices, Better Health Physical therapy (by video or office visit) Yoga Tai chi Relaxation therapy (meditation, progressive muscle relaxation, biofeedback, guided visualization) Acupuncture  Spinal manipulation (chiropractic)  Massage NSAIDs  Duloxetine Physical Medicine &#38; Rehabilitation/Spine Care Clinic (where available) Psychotherapy (cognitive behavioral therapy for pain, mindfulnessbased stress reduction)            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions</sectionTitle>
+            <sectionContent>Please note that not all of these interventions are available or covered at KPWA; patients should contact Member Services for information on their own coverage.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Reassurance</sectionTitle>
+            <sectionContent>Address the patient’s specific fears or worries (e.g., long-term disability, undiagnosed serious disease). Affirm/acknowledge the patient’s pain and suffering/loss of function. Provide reassurance that for the majority of patients, back pain symptoms will resolve or significantly diminish in a few days or weeks</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Education</sectionTitle>
+            <sectionContent>Educate patients that the primary goal of treatment is to maximize function and quality of life, rather than to completely eliminate pain. Some ongoing or recurrent pain is normal and not indicative of a serious problem. Offer the shared decision-making DVD “Chronic Low Back Pain: Managing Your Pain and Your Life,” use the appropriate SmartPhrase for the patient’s level of complexity (.AVSBackPainLow, .AVSBackPainMed, or .AVSBackPainHigh), and/or recommend the patient explore the online content on low back pain on Healthwise.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Usual activity as able</sectionTitle>
+            <sectionContent> Encourage the patient to stay active and carry on with normal activities— including work—as much as possible while paying attention to correct posture to minimize spine  loading. Advise the patient to temporarily limit or avoid specific activities known to increase  mechanical stress on the spine (e.g., prolonged unsupported sitting, heavy lifting, and bending or  twisting the back, especially while lifting)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: low-impact activities</sectionTitle>
+            <sectionContent>Encourage low-impact activities such as walking, swimming or elliptical. Walking places low  stress on the spine and is available to almost everyone. Walking helps maintain endurance and  function, and helps with pain. Recommend a gradual increase in exercise of no more than 10%  per week. Advise patients to start slow with short walks 2–3 times per day and then increase their  distance or speed every 3–5 days if there is no increase in symptoms</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Self-care</sectionTitle>
+            <sectionContent>Self-care includes staying physically active, getting enough sleep, connecting with  friends and family, eating well, managing physical and emotional stressors, and staying involved  in everyday activities. Advise the patient to identify enjoyable and meaningful activities that will  increase strength, flexibility and endurance.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Superficial heat</sectionTitle>
+            <sectionContent>Heat may help to reduce low back pain. Advise the patient to apply heat for 15  to 20 minutes at a time. Moist heat (hot packs, baths) might work better than dry heat. If an  electric heating pad is used, advise the patient to be careful not to fall asleep while the pad is on  to avoid heat burn</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Better Choices, Better Health® workshop</sectionTitle>
+            <sectionContent>The Better Choices, Better Health web-based workshop lasts 6 weeks, but there's no set time to  participate. Participants log on for activities 2 to 3 times each week at their convenience and,  once the workshop is over, they can join an ongoing moderated self-management community,  Healthier Living Alumni, to reinforce the skills gained during the workshop. This workshop improves outcomes for patients with ongoing health conditions, including back  pain, as participants experience fewer symptoms, get more exercise, have better medication  adherence, are more active partners in their health care, and spend less time in the hospital. This  program is offered to patients free of charge. Use .avsBCBH to refer patients to the program.  Patients can register at https://enroll-kpwa1.selfmanage.org/. See the KPWA public  website for more information</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Physical therapy (PT)</sectionTitle>
+            <sectionContent>Evidence suggests improved outcomes for patients who have early PT,  and that video PT visits produce results comparable to in-person visits. Strengthening and  endurance exercises are the most effective for back pain, as are counseling strategies that  decrease the perceived threat or fear associated with low back pain. Most patients may self-refer  to PT for evaluation and treatment; advise patients to check with Member Services to determine  their individual coverage and benefits.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Relaxation therapy</sectionTitle>
+            <sectionContent>Relaxation therapy includes meditation, progressive muscle relaxation,  biofeedback, and guided visualization. Educate patients that people who are in pain tend to tense  their muscles and hold their breath, potentially leading to further tension and pain, and encourage  them to practice frequent relaxation</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Yoga</sectionTitle>
+            <sectionContent>Benefits both pain and function. Beginners should practice under the supervision of a  qualified instructors</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Tai chi</sectionTitle>
+            <sectionContent>Tai chi is a series of movements done slowly to improve posture, balance, coordination,  endurance and flexibility.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Acupuncture</sectionTitle>
+            <sectionContent>Evidence suggests that acupuncture may improve chronic back pain in the short  term. Long-term improvement is unknown. Most patients may self-refer for acupuncture; advise  patients to check with Member Services to determine their individual coverage and benefits</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Spinal manipulation</sectionTitle>
+            <sectionContent> Evidence suggests moderate impact on both pain and function. Most  patients may self-refer for spinal manipulation; advise patients to check with Member Services to  determine their individual coverage and benefits.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Massage</sectionTitle>
+            <sectionContent>There is some evidence of moderate improvement in both pain and function with  massage</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Physical Medicine &#38; Rehabilitation (PMR)</sectionTitle>
+            <sectionContent>Consider referral to PMR, which develops detailed  treatment plans to enable individual patients to carry out their rehabilitation, including exercise  and self-care. PMR can also provide a second opinion for patients with suboptimal response to a  conservative treatment regimen</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>RECOMMENDED non-pharmacologic interventions: Psychotherapy</sectionTitle>
+            <sectionContent>Consider a referral to Mental Health and Wellness. There is evidence for two  specific psychotherapies: cognitive behavioral therapy (CBT) for pain and mindfulness-based  stress reduction (MBSR). The evidence does not show a difference between these two  treatments. While the evidence suggests a potential long-term (> 1 year) benefit for improving  pain, it is mixed on improving function. CBT for pain is currently available, on a limited basis, at  KPWA. MBSR is not currently available at KPWA, but patients may opt to attend a communitybased MBSR program.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Non-pharmacologic interventions that are NOT recommended</sectionTitle>
+            <sectionContent>The following interventions are not recommended due to evidence suggesting lack of benefit: • Bed rest  • Traction  Note about weight loss as an intervention: We recommend against delaying interventions for back pain  until patients lose weight, as there is no evidence that the delay improves long-term outcomes. There is  insufficient evidence to determine the effectiveness of weight loss in improving long-term outcomes for  back pain management. The following interventions are not recommended due to insufficient evidence to determine benefit: • Back school • Inferential therapy • Low-level laser therapy • Transcutaneous electric nerve stimulation  • Lumbar corset  • Therapeutic ultrasound • Nerve root blocks • Intra-discal electrothermal therapy  • Prolotherapy • Radiofrequency facet joint denervation • Sacroiliac joint injections • Trigger point/soft tissue injections • Discography • Kyphoplasty • Percutaneous intradiscal radiofrequency  thermocoagulation • Vertebral axial decompression for back pain</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Epidural steroid injections            </sectionTitle>
+            <sectionContent>Epidural steroid injections are not recommended for patients with non-specific back pain, due to a lack of evidence of the safety and effectiveness for this use. The Food and Drug Administration  (FDA) does not approve of the use of corticosteroid injections into the epidural space and in April  2014 issued a warning that this practice may result in rare but serious adverse events, including loss  of vision, stroke, paralysis, and death. See the FDA Safety Announcement at  http://www.fda.gov/Drugs/DrugSafety/ucm394280.htm (accessed March 2021)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options</sectionTitle>
+            <sectionContent>Consider the risks of any medication and prescribe the lowest effective dose for the shortest period of time.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options: Acetaminophen</sectionTitle>
+            <sectionContent>Because of its stronger safety profile, acetaminophen is the preferred drug for initial treatment of nonspecific back pain.  Recommended initial dose: 500–650 mg t.i.d. Maximum daily dose: 3,000 mg  Note: In patients with liver disease or alcohol use problems, the daily dose of acetaminophen should not  exceed 1,000–1,500 mg</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options: Non-steroidal anti-inflammatory drugs (NSAIDs)</sectionTitle>
+            <sectionContent>For medium- or high-complexity patients, a trial of NSAIDs may be considered if acetaminophen has  been ineffective. NSAIDs such as ibuprofen or naproxen should be used with caution in patients with  cardiovascular morbidities, risk of gastrointestinal bleeding, or hepatic or renal dysfunction. Among the  NSAIDs, meloxicam is partially selective and may have decreased risk of adverse GI effects compared to  non-selective NSAIDs. NSAID Maximum daily dose Ibuprofen 2,400 mg Naproxen 1,250 mg Meloxicam 15 mg</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options: Adjunct therapy for chronic pain: duloxetine</sectionTitle>
+            <sectionContent>Duloxetine may be considered for medium- or high-complexity patients with chronic pain, and is  preferred to opioid medications. Recommended initial dose: 30 mg daily for 1 week, then increase to 60 mg daily Maximum daily dose: 60 mg  Note: Duloxetine should not be abruptly discontinued, as withdrawal effects can occur.            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options: Special considerations: opioids            </sectionTitle>
+            <sectionContent>Opioids, including tramadol, are rarely indicated for the treatment of back pain. While opioids  appear to be similarly efficacious to acetaminophen and NSAIDs, they have more risks and side effects,  including the risk of dependence and substance abuse disorder. One study (AMDG 2015) showed that of  patients who took opioids for 90 days or longer, 60 percent were still taking opioids 5 years later. The Centers for Disease Control and Prevention (2016) recommends against prescribing opioids for  chronic back pain. See the Chronic Opioid Therapy Safety Guideline. Low-quality evidence shows that  opioids may reduce pain in patients with chronic low back pain in the short term. However, the effect is  small and not clinically important, and long-term efficacy is unknown. There is insufficient evidence to determine the effects of opioids on acute back pain. Opioid  prescriptions for acute back pain, if made, should be limited to 3 days and followed by a checkback with the patient. As in all situations where opioid therapy is considered, the focus should be on</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Pharmacologic Options: Medications that are NOT recommended            </sectionTitle>
+            <sectionContent>Systemic corticosteroids • Gabapentin • Celecoxib (non-formulary)  • Topiramate • Pregabalin • Skeletal muscle relaxants</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Follow-up/Monitoring            </sectionTitle>
+            <sectionContent>For high-complexity patients, early and frequent in-person follow-up may be appropriate. At a  minimum, have patients check back at 2 weeks.  • For low- and medium-complexity patients, follow up only as needed. Options for follow-up include a  phone call, secure e-mail message, or office visit. • Patients referred for spinal manipulation, acupuncture, or massage: Have patient check back after  four visits with the referred specialty to demonstrate improved functionality. • Patients should be educated to stay active to minimize the potential for relapse.            </sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Evidence Summary</sectionTitle>
+            <sectionContent>The Non-specific Back Pain Guideline was developed using an evidence-based process, including  systematic literature search, critical appraisal, and evidence synthesis. As part of our improvement process, the Kaiser Permanente Washington guideline team is working  towards developing new clinical guidelines and updating the current guidelines regularly. To achieve this  goal, we are adapting evidence-based recommendations from high-quality national and international  external guidelines, if available and appropriate. The external guidelines should meet several quality  standards to be considered for adaptation. They must: be developed by a multidisciplinary team with no  or minimal conflicts of interest; be evidence-based; address a population that is reasonably similar to our  population; and be transparent about the frequency of updates and the date the current version was  completed. In addition to identifying the recently published guidelines that meet the above standards, a literature  search was conducted to identify studies relevant to the key questions that are not addressed by the  external guidelines</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>External guidelines eligible for adapting</sectionTitle>
+            <sectionContent>2020 Agency for Health Research and Quality: Noninvasive Nonpharmacological Treatment for  Chronic Pain: A Systematic Review Update • 2020 Agency for Health Research and Quality: Nonopioid Pharmacologic Treatments for Chronic  Pain  • 2020 North American Spine Society: Evidence-based clinical guidelines for multidisciplinary spine  care • 2017 American College of Physicians: Noninvasive Treatments for Acute, Subacute, and Chronic  Low Back Pain: A Clinical Practice Guideline from the American College of Physicians • 2012 Clinical Practice Guidelines Linked to the International Classification of Functioning, Disability,  and Health from the Orthopaedic Section of the American Physical Therapy Association</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of telehealth-based interventions in the management of nonspecific low back pain?</sectionTitle>
+            <sectionContent>A systematic review and meta-analysis (Dario 2017) of 11 randomized controlled trials (RCTs) that  included adult patients with subacute, acute or chronic low back pain was reviewed. Telehealth-based  interventions were compared to usual care/minimal interventions. Length of telehealth interventions  varied from 4 weeks to 1 year. Telehealth interventions alone are not more effective than minimal  interventions in terms of pain and disability reduction in patients with chronic low back pain. However,  in patients with acute or subacute LBP, telehealth in addition to usual care may be more effective  than usual care alone for pain, disability, and physical function.  An RCT (Heapy 2017) with moderate risk of bias reported that cognitive behavioral therapy (CBT)  supported by health technology (interactive voice response–based CBT) is comparable to in-person  CBT in patients with chronic LBP on the mid-term (9 months). Another RCT (Amorim 2019) with  moderate risk of bias found that the addition of telephone-based health coaching sessions (supported  by internet-based application and activity tracker) is not better (no difference) than standard of care in  chronic LBP on the mid-term (6 months). Four non-RCTs (Cottrell 2018, Palacín-Marín 2013, Peterson 2019, Truter 2013) with small sample  sizes showed high agreement between in-person and telerehabilitation evaluations for a variety of  outcomes.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of antidepressants (specifically duloxetine and tricyclics) for  the treatment of acute or chronic low back pain?</sectionTitle>
+            <sectionContent>AHRQ 2020 has been adapted: In patients with low back pain, short-term duloxetine use resulted in a  small improvement in pain severity and response, but the improvements in function and quality of life  did not meet the threshold for a small improvement, based on pooled analysis of three trials (strength  12 of evidence: moderate). In the intermediate term, a single study of amitriptyline found no improvement  in pain or function in patients with low back pain (strength of evidence: low)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of anticonvulsants (specifically pregabalin) for the treatment  of acute or chronic low back pain?</sectionTitle>
+            <sectionContent>A systematic review and meta-analysis (Enke 2018) including nine RCTs was reviewed. Most studies  compared anticonvulsants with placebo and had low risk of bias. Anticonvulsants included  gabapentin, pregabalin and topiramate. The review showed that anticonvulsants (pregabalin,  gabapentin) were ineffective for pain and disability in patients with chronic low back pain or lumbar  radicular pain in the short and intermediate terms. The risk of adverse events was higher for  anticonvulsants. Similarly, AHRQ 2020 indicated that in the short term, pregabalin/gabapentin  resulted in large increases in blurred vision, dizziness, weight gain, and cognitive effects (confusion)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of muscle relaxants (cyclobenzaprine, methocarbamol,  tizanidine, baclofen) for non-specific acute and chronic low back pain?</sectionTitle>
+            <sectionContent>No new high-quality studies comparing muscle relaxants to placebo were identified. However, two  low-quality RCTs (Friedman 2018, Friedman 2019) showed that the addition of muscle relaxants  (tizanidine, methocarbamol) to naproxen or ibuprofen does not confer additional efficacy for acute low  back pain. Friedman 2018 randomized patients to naproxen (500 mg) + placebo or naproxen +  methocarbamol (750 mg) or naproxen + orphenadrine (100 mg). The authors reported improvement  in Roland Morris Disability Questionnaire (RMDQ) scores in all groups with no serious adverse  events. Friedman 2019 concluded that the addition of tizanidine to ibuprofen did not confer additional  efficacy at 1 week after an ED visit for acute low back pain.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of epidural steroid injections for the treatment of chronic low  back pain?</sectionTitle>
+            <sectionContent>The North American Spine Society (NASS) 2020 guidelines have been adapted:  • There is insufficient evidence to make a recommendation for or against the use of caudal  epidural steroid injections in patients with low back pain. (Grade of Recommendation: I) • There is insufficient evidence to make a recommendation for or against the use of  interlaminar epidural steroid injections in patients with low back pain. (Grade of  Recommendation: I)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the clinical effectiveness of acupuncture in the treatment of acute and chronic low  back pain?</sectionTitle>
+            <sectionContent>AHRQ 2020 guidelines have been adopted for both questions. Acupuncture and MBSR are  recommended.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle> What is the clinical effectiveness of mindfulness-based stress reduction (MBSR) in treating  non-specific chronic low back pain in adults?</sectionTitle>
+            <sectionContent>AHRQ 2020 guidelines have been adopted for both questions. Acupuncture and MBSR are  recommended.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What are the specific aspects of early physical therapy in patients with acute non-specific low  back pain that are effective?</sectionTitle>
+            <sectionContent>American Physical Therapy Association 2012 guidelines have been adapted: • Manual therapy, trunk coordination, strengthening, and endurance exercises, centralization  and directional preference exercises and procedures should be considered (strong evidence). • Progressive endurance exercise and fitness activities should be considered (strong  evidence). • Patient education and counseling strategies that either directly or indirectly increase the  perceived threat or fear associated with low back pain should not be used (moderate  evidence).  • Flexion exercises, combined with other interventions such as manual therapy, strengthening  exercises, nerve mobilization procedures, and progressive walking can be considered (weak  evidence). • Lower-quarter nerve mobilization procedures should be considered (weak evidence). • Traction (conflicting evidence)</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Is there evidence that losing weight improves long-term outcomes for back pain  management?</sectionTitle>
+            <sectionContent>One low-quality RCT (Williams 2018) that assigned overweight and obese patients to lifestyle  intervention or usual care was identified. Patients were followed for 6 months. The authors found that  healthy lifestyle intervention (telephone advice, education, and referral to a 6-month telephone-based  healthy lifestyle coaching service targeting weight loss, physical activity, and diet) did not reduce pain  intensity, self-reported weight, or any other secondary outcomes. Intervention did not reduce weight.  More high-quality studies are warranted. There is insufficient direct evidence to determine the  effectiveness of weight loss in improving long-term outcomes for back pain management</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>What is the impact of cultural literacy on low back pain outcomes?</sectionTitle>
+            <sectionContent>American Academy of Family Physicians (AAFP) recommendations have been adopted. “AAFP  supports the broad adoption of cultural sensitivity standards by government, payers, health care  organizations, practices and individuals. When cultural sensitivity is an expected standard in health  care delivery, ‘optimal health for everyone’ means everyone.” </sectionContent>
+        </section>
+    </content>
+</page>

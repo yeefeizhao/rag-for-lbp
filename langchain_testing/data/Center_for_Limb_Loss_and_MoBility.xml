@@ -1,0 +1,66 @@
+<page>
+    <title>Center for Limb Loss and MoBility</title>
+    <url>https://www.amputation.research.va.gov/Prosthetic_Engineering/Prosthetic_Engineering_Overview.asp</url>
+    <content>
+        <section>
+            <sectionTitle>Prosthetic Engineering - Overview</sectionTitle>
+            <sectionContent>Our aim is to improve prosthetic prescription by investigating the efficacy of prosthetic components used in current clinical practice and by developing novel approaches to improve the current standard of care. Our amputee-centric research encompasses improving patient mobility and comfort and preventing injury . Support for this research (2000 to present) includes funding from the Department of Veterans Affairs Rehabilitation Research and Development Service and the National Institutes of Health.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Disturbance Response in Amputee Gait</sectionTitle>
+            <sectionContent>Errors in foot placement while avoiding obstacles and maneuvering in the household and community environments may lead to falls and injuries. This research aims to develop an ankle that can invert and evert and thereby control the center of pressure under the prosthetic foot; enhancing balance and stability of lower limb amputees.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Foot-Ankle Stiffness</sectionTitle>
+            <sectionContent>Models of foot stiffness Many ambulatory lower limb amputees exhibit fatigue, asymmetrical gait, and the inability to walk at varying speeds. We are using a rapid prototyping approach to fabricate feet of varying stiffness for exploring the effects of foot stiffness on amputee gait.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Turning Gait</sectionTitle>
+            <sectionContent>Maneuvering required in a typical house. Turning corners and maneuvering around obstacles are essential abilities for successful community and household ambulation. The aim of this research is to test the efficacy of a compliant torque adapter in the pylons of transtibial amputees.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Energy Storage &amp; Release</sectionTitle>
+            <sectionContent>Many ambulatory lower limb amputees exhibit fatigue, asymmetrical gait, and the inability to walk at varying speeds. We are developing and testing several approaches aimed at providing the propulsive forces necessary to alleviate these problems. Three different propulsion test devices.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Stochastic Resonance</sectionTitle>
+            <sectionContent>Stochastic resonance (sub-threshold vibration) may enhance peripheral sensation sufficiently to result in improved postural stability and locomotor function. This research explores application of this phenomenon to the residual limb and intact plantar surface of diabetic lower limb amputees.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Research in Robotics and Biomechanics</sectionTitle>
+            <sectionContent>Dr. Aubin’s research spans robotics and biomechanics with applications in health and mobility. He motivates his research by engaging with patients and stakeholders to understand shortcomings in the areas of rehabilitation, prosthetics, orthotics, and physical therapy. Dr. Aubin strives to address these unmet patient and caregiver needs by establishing multidisciplinary research teams that leverage state of the art technologies in robotics, neuroscience, and computational intelligence. Dr. Aubin’s research goal is to develop and utilizes novel sensors, algorithms, assistive powered devices, and robotic tools that can augment human performance and/or improve mobility and function for those affected by disease, age or trauma.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Smart Cane System</sectionTitle>
+            <sectionContent>People with pain or arthritis in their knee often walk with a cane to reduce knee pain and to improve or maintain their mobility. Increased pressure on the knee joint likely causes knee arthritis and reducing the pressure on the knee joint may slow the progression of arthritis. Walking with a cane reduces the pressure inside the knee joint, but only if the cane supports 10% to 20% of a person’s weight. Many people may not be using their cane in the best way they can because they don’t know how much force (percent of their body weight) they are putting on the cane when they walk. In this study we are looking at how using a computerized cane that beeps or vibrates (like a cell phone) when a certain amount of force is applied to it might help people learn to more effectively use a cane. We are also examining how walking with a cane changes the pressure in the knee joint. We hypothesize that giving the user biofeedback, a sound or vibration signal from the cane, will help them apply the optimal amount of force on the cane. Our secondary hypothesis is that increased cane loading will result in a decrease in knee joint pressure.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Sensory Feedback For Prosthetic Limbs</sectionTitle>
+            <sectionContent>It has long been recognized that restoring movement function after amputation is a priority. We are now entering an era in which restoration of sensation may be possible as well through the use of smart sensorized prosthetic devices and haptic feedback. We are working on understanding how feedback of forces and events on the foot - for example the placement of the prosthetic foot as the user is walking down stairs - can lead to improved function.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Vacuum Suspension Systems</sectionTitle>
+            <sectionContent>Many amputees live with an ill-fitting socket and can experience limb pistoning within the socket, which in turn may result in skin irritation, tissue breakdown, discomfort, and a reduction in activity. The aims of this research are to characterize the response of the lower residual limb to a vacuum suspension system and to measure changes in limb volume with a structured light scanning system.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Socket Systems &amp; Tissue O 2</sectionTitle>
+            <sectionContent>Limb health and wound healing capacity is closely related to the amount of oxygen present in limb tissues. Using our fiber-optic video-oximetry imaging system, we aim to discover if prosthetic prescription can influence residual limb tissue oxygenation during both rest and gait.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Distributed Sensing</sectionTitle>
+            <sectionContent>The goal of the proposed project is to develop enabling sensing technology based on a flexible array and to build a prototype of a prosthetic liner with distributed, unimodal field sensing capability. The specific aims include: (1) the design of the flexible sensing array for measurement of moisture, temperature, pressure, and shear stress; (2) integration of this array into a prosthetic liner/socket; and (3) testing of device performance. Distributed sensing images</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Torsional Prosthesis</sectionTitle>
+            <sectionContent>Prosthetic limb with torsional characteristics This research seeks to develop a prosthetic limb whose torsional characteristics can adapted depending activity. Our goal is to reduce torsional stresses and the incidence of residual limb injuries.     Patient Comfort Research</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Thermal Comfort</sectionTitle>
+            <sectionContent>Sensors monitor skin temperatures Lower limb amputations often experience discomfort related in part to higher skin temperatures within their prosthetic socket. Our research has found prosthetic liners and sockets are excellent insulators that can retain heat. Activity can cause a dramatic increase in skin temperature within the prosthesis requiring substantially long periods of inactivity to restore resting state temperatures. Our current work involves developing active cooling systems and embedded sensor networks to monitor skin temperature.</sectionContent>
+        </section>
+        <section>
+            <sectionTitle>Evaporative Cooling and Perspiration Removal</sectionTitle>
+            <sectionContent>Evaporative cooling system Amputees often complain about uncomfortably warm residual limb skin temperatures and the accumulation of perspiration within their prosthesis. This research will discover if a novel evaporative cooling system can provide ameliorate these problems.     Research Areas &amp; Future Directions   Current Project Summaries  Development of Controlled Energy Storage and Release Prosthetic Foot Development of Inverting-Everting Prosthesis Development of Variable Stiffness Prosthetic Ankle Diabetic Thermoregulation and Perception of Comfort Distributed Sensors for Prosthetic Sockets Disturbance Response in Lower Limb Amputee Gait Field Measurements of Lower Limb Skin Temperatures During Snow Shoeing Mechanically-induced Stochastic Resonance Negative Gauge Pressure Moisture Management and Secure Adherence Device Prosthetic Knee-Ankle-Foot System Residual Limb Skin Temperatures and Prosthesis Effects on Heat Transfer Socket System Effect on Tissue Oxygenation Transverse Plane Pylon Stiffness Effect Turning Corners Vacuum Suspension</sectionContent>
+        </section>
+    </content>
+</page>

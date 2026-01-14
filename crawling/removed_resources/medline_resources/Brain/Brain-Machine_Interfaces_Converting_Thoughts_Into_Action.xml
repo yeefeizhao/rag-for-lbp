@@ -1,0 +1,199 @@
+<page><title>Brain-Machine Interfaces: Converting Thoughts Into Action</title><url>https://www.brainfacts.org/in-the-lab/tools-and-techniques/2017/brain-machine-interfaces-converting-thoughts-into-action-092717</url><content>The Science of Science Outreach
+Research and Discoveries
+Brain-Machine Interfaces: Converting Thoughts Into Action
+Published
+27 Sep 2017
+Reviewed
+27 Sep 2017
+Author
+Mary Bates
+Source
+BrainFacts/SfN
+Far from science fiction, brain-machine interfaces present a glimpse of the future of technologies powered by thought. Devices that convert brain activity from algorithm to action are giving those who are unable to speak or use their limbs independence once again.
+New advances in brain science and technology are pushing brain machine interfaces – such as prosthetics – to new heights.
+Johns Hopkins Applied Physics Lab
+‘The Woman Who Drank the Coffee’
+In 2012, Cathy Hutchinson became known as “the woman who drank the coffee.” Though she actually sipped a cinnamon latte, her seemingly ordinary feat generated international media attention because of the way she did it – using a robotic arm controlled by her thoughts.
+Hutchinson suffered a stroke in 1996 that left her paralyzed and unable to speak. As a participant in the BrainGate2 clinical trial, she used a “brain-machine interface” to turn her thoughts into action.
+To drink her latte, Hutchinson simply imagined moving her right arm. Though it sounds like the makings of a science fiction movie, brain-machine interfaces are real devices — comprised of tiny recording instruments, or microelectrodes, surgically implanted in or on the brain, they translate the brain’s electrical activity via computer algorithms — turning “thought” into motion.
+The brain activity produced by that thought was processed through the computer and generated signals that powered the robotic arm. Similarly, scientists have employed brain-machine interfaces to move cursors on computer screens and control other robotic or prosthetic limbs.
+A Lofty Idea
+Such feats began with a revolutionary idea.  In 1968, Karl Frank, the founder of the Laboratory for Neural Control at the National Institutes of Health predicted a future where brain activity could connect to the external world.
+In an enormous imaginative leap, Frank posited that by recording brain activity, we could one day use the patterns of that activity to help people with paralysis interact with their environments.
+Realizing Frank’s vision took decades as researchers developed a better understanding of brain physiology and more powerful computers. But now, nearly 50 years after Frank first proposed them, brain-machine interfaces are changing how we think about developing treatments for brain injuries and diseases.
+Eavesdropping on Brain Activity
+Since the 1920s, researchers have been recording the electrical activity of single brain cells as well as the summed activity of millions of brain cells. However, the sweet spot for brain-machine interfaces is somewhere in between. Recording brain activity at that level meant developing a new technology — one that could capture the conversations between populations of hundreds or thousands of brains cells by recording them individually at the same time.
+Smaller than a coin, microelectrode arrays allow prosthetics to be controlled by thought when implanted in the brain.
+Brown University.
+In the early 1990s, an engineer at the University of Utah named Richard Normann solved that problem with the Utah Electrode Array. This tiny device, known as a multi-electrode array, has rows of electrodes and can be implanted into the brain to listen to dozens (or 100 or more) individual brain cells at a single point in time. It was the technological breakthrough needed to develop brain-machine interfaces.
+In a proof of concept, Brown University neuroscientist John Donoghue implanted the Utah Electrode Array into monkeys. In 2002, his lab demonstrated that this brain-machine interface allowed monkeys to control a computer cursor in real time through their brain activity alone. Donoghue founded the company Cyberkinetics to shepherd the technology through regulatory approvals and into humans. While it has inspired the development of similar implantable devices, Normann’s Utah Electrode Array is currently the only one cleared by the U.S. Food and Drug Administration (FDA) for use in humans.
+Volunteer Patient Makes History
+With the initial BrainGate clinical trial, which launched in 2004, Cyberkinetics implanted the Utah Electrode Array into the brains of study volunteers with quadriplegia, paralysis affecting all four limbs. The company’s research focused on the motor cortex, a brain region controlling voluntary movement. By hooking the array up to a computer interface, the researchers hoped to turn thoughts into action.
+In 2005, as part of BrainGate, Matt Nagle became the first person to play the video game Pong and open and close a prosthetic hand with just his thoughts.
+This milestone, built upon decades of research discoveries funded by the National Institutes of Health and other public agencies, sparked the public imagination with its potential to help people with paralysis.
+Organizations like DARPA are interested in advancements in prosthetics to aid veterans who sustained injuries.
+DARPA.
+Funding Speeds Research Forward
+Advances in recording neurons and decoding their activity continue to spur the field forward. Three years after Cathy Hutchinson drank her coffee, Erik Sorto, a person with quadriplegia as a result of a gunshot to the spine, did much the same although the movement came more smoothly. As a participant in a clinical trial conducted by Richard Andersen, at California Institute of Technology, Sorto had microelectrodes implanted into a region of the brain responsible for planning movement, the posterior parietal cortex. The result: Sorto fluidly raised a beer to his lips using a robotic arm. In Pittsburgh, a woman using the same microelectrode technology and a newer prosthetic arm was able to feed herself a chocolate bar.
+Researchers around the country are pushing the boundaries of the technology. For example, the BrainGate consortium continues to explore using brain-machine interfaces to restore communication and movement. The consortium is also researching how they can be employed for assistive communication and developing treatments for disorders like epilepsy.
+The Defense Advanced Research Projects Agency (DARPA), as part of the BRAIN Initiative, is funding projects developing next-generation prosthetics, improving memory, and developing an implantable system capable of recording from one million neurons.
+In July 2017, DARPA awarded $65 million to five research organizations and one company to support the development of an implantable recording system. The goal is to develop a wireless, extremely compact system for recording in the next 4 years. Ultimately, DARPA’s Neural Engineering System Design program will work with FDA to bring the technology to human clinical trials.
+Decades of publicly-funded research has brought us to the point where we can envision a future where people with paralysis can regain mobility with the help of implantable brain-machine interfaces. Still, the technology is in its infancy and translation into clinical use has only just begun. With continued support from public and private institutions, scientists may one day realize Karl Frank’s vision of melding mind with machine to solve human problems.
+About the Author
+Mary Bates
+Mary Bates is a freelance science writer interested in the brains and behavior of humans and other animals. For her graduate degree in psychology, she studied the echolocation abilities of big brown bats. She has written for Psychology Today, Scientific American's Mind Matters blog, the Howard Hughes Medical Institute, and other print and online publications.
+CONTENT PROVIDED BY
+BrainFacts/SfN
+References
+BrainGate. 2017.
+DARPA and the BRAIN Initiative. DARPA. 2017.
+Graimann B, Allison B, and Pfurtscheller G. Brain–Computer Interfaces: A Gentle Introduction. In: Graimann B, Pfurtscheller G, Allison B. (eds) Brain-Computer Interfaces. The Frontiers Collection. Springer, Berlin, Heidelberg
+. 2010.
+Hochberg LR, Serruya MD, Friehs GM, Mukand JA, Saleh M, et al. Neuronal ensemble control of prosthetic devices by a human with tetraplegia. Nature. 442: 164-171 (2006).
+Hochberg LR, Bacher D, Jarosiewicz B, Masse NY, Simeral JD, et al. . Reach and grasp by people with tetraplegia using a neutrally controlled robotic arm. Nature. 485: 372-375 (2012).
+Leuthardt EC, Roland JL, Ray WZ. Neuroprosthetics. The Scientist. November 1, 2014.
+Peters B, Fried-Oken M. FYI: Brain-Computer Interface. ALS Association. September 2014.
+Shih JJ, Krusienski DJ, Wolpaw JR. Brain-Computer Interfaces in Medicine. Mayo Clinic Proceedings. 87(3): 268-279 (2012).
+Web Focus: Brain-Machine Interfaces. Nature. 2006.
+What is the BRAIN Initiative? NIH. January 19, 2017.
+Related Topics
+Brain Machine Interface
+Neuroprosthetics
+Therapies
+Tools &amp; Techniques
+In the Lab
+Diseases &amp; Disorders
+Research and Discoveries
+Brain-Machine Interfaces: Converting Thoughts Into Action
+Published
+27 Sep 2017
+Reviewed
+27 Sep 2017
+Author
+Mary Bates
+Source
+BrainFacts/SfN
+Far from science fiction, brain-machine interfaces present a glimpse of the future of technologies powered by thought. Devices that convert brain activity from algorithm to action are giving those who are unable to speak or use their limbs independence once again.
+New advances in brain science and technology are pushing brain machine interfaces – such as prosthetics – to new heights.
+Johns Hopkins Applied Physics Lab
+‘The Woman Who Drank the Coffee’
+In 2012, Cathy Hutchinson became known as “the woman who drank the coffee.” Though she actually sipped a cinnamon latte, her seemingly ordinary feat generated international media attention because of the way she did it – using a robotic arm controlled by her thoughts.
+Hutchinson suffered a stroke in 1996 that left her paralyzed and unable to speak. As a participant in the BrainGate2 clinical trial, she used a “brain-machine interface” to turn her thoughts into action.
+To drink her latte, Hutchinson simply imagined moving her right arm. Though it sounds like the makings of a science fiction movie, brain-machine interfaces are real devices — comprised of tiny recording instruments, or microelectrodes, surgically implanted in or on the brain, they translate the brain’s electrical activity via computer algorithms — turning “thought” into motion.
+The brain activity produced by that thought was processed through the computer and generated signals that powered the robotic arm. Similarly, scientists have employed brain-machine interfaces to move cursors on computer screens and control other robotic or prosthetic limbs.
+A Lofty Idea
+Such feats began with a revolutionary idea.  In 1968, Karl Frank, the founder of the Laboratory for Neural Control at the National Institutes of Health predicted a future where brain activity could connect to the external world.
+In an enormous imaginative leap, Frank posited that by recording brain activity, we could one day use the patterns of that activity to help people with paralysis interact with their environments.
+Realizing Frank’s vision took decades as researchers developed a better understanding of brain physiology and more powerful computers. But now, nearly 50 years after Frank first proposed them, brain-machine interfaces are changing how we think about developing treatments for brain injuries and diseases.
+Eavesdropping on Brain Activity
+Since the 1920s, researchers have been recording the electrical activity of single brain cells as well as the summed activity of millions of brain cells. However, the sweet spot for brain-machine interfaces is somewhere in between. Recording brain activity at that level meant developing a new technology — one that could capture the conversations between populations of hundreds or thousands of brains cells by recording them individually at the same time.
+Smaller than a coin, microelectrode arrays allow prosthetics to be controlled by thought when implanted in the brain.
+Brown University.
+In the early 1990s, an engineer at the University of Utah named Richard Normann solved that problem with the Utah Electrode Array. This tiny device, known as a multi-electrode array, has rows of electrodes and can be implanted into the brain to listen to dozens (or 100 or more) individual brain cells at a single point in time. It was the technological breakthrough needed to develop brain-machine interfaces.
+In a proof of concept, Brown University neuroscientist John Donoghue implanted the Utah Electrode Array into monkeys. In 2002, his lab demonstrated that this brain-machine interface allowed monkeys to control a computer cursor in real time through their brain activity alone. Donoghue founded the company Cyberkinetics to shepherd the technology through regulatory approvals and into humans. While it has inspired the development of similar implantable devices, Normann’s Utah Electrode Array is currently the only one cleared by the U.S. Food and Drug Administration (FDA) for use in humans.
+Volunteer Patient Makes History
+With the initial BrainGate clinical trial, which launched in 2004, Cyberkinetics implanted the Utah Electrode Array into the brains of study volunteers with quadriplegia, paralysis affecting all four limbs. The company’s research focused on the motor cortex, a brain region controlling voluntary movement. By hooking the array up to a computer interface, the researchers hoped to turn thoughts into action.
+In 2005, as part of BrainGate, Matt Nagle became the first person to play the video game Pong and open and close a prosthetic hand with just his thoughts.
+This milestone, built upon decades of research discoveries funded by the National Institutes of Health and other public agencies, sparked the public imagination with its potential to help people with paralysis.
+Organizations like DARPA are interested in advancements in prosthetics to aid veterans who sustained injuries.
+DARPA.
+Funding Speeds Research Forward
+Advances in recording neurons and decoding their activity continue to spur the field forward. Three years after Cathy Hutchinson drank her coffee, Erik Sorto, a person with quadriplegia as a result of a gunshot to the spine, did much the same although the movement came more smoothly. As a participant in a clinical trial conducted by Richard Andersen, at California Institute of Technology, Sorto had microelectrodes implanted into a region of the brain responsible for planning movement, the posterior parietal cortex. The result: Sorto fluidly raised a beer to his lips using a robotic arm. In Pittsburgh, a woman using the same microelectrode technology and a newer prosthetic arm was able to feed herself a chocolate bar.
+Researchers around the country are pushing the boundaries of the technology. For example, the BrainGate consortium continues to explore using brain-machine interfaces to restore communication and movement. The consortium is also researching how they can be employed for assistive communication and developing treatments for disorders like epilepsy.
+The Defense Advanced Research Projects Agency (DARPA), as part of the BRAIN Initiative, is funding projects developing next-generation prosthetics, improving memory, and developing an implantable system capable of recording from one million neurons.
+In July 2017, DARPA awarded $65 million to five research organizations and one company to support the development of an implantable recording system. The goal is to develop a wireless, extremely compact system for recording in the next 4 years. Ultimately, DARPA’s Neural Engineering System Design program will work with FDA to bring the technology to human clinical trials.
+Decades of publicly-funded research has brought us to the point where we can envision a future where people with paralysis can regain mobility with the help of implantable brain-machine interfaces. Still, the technology is in its infancy and translation into clinical use has only just begun. With continued support from public and private institutions, scientists may one day realize Karl Frank’s vision of melding mind with machine to solve human problems.
+About the Author
+Mary Bates
+Mary Bates is a freelance science writer interested in the brains and behavior of humans and other animals. For her graduate degree in psychology, she studied the echolocation abilities of big brown bats. She has written for Psychology Today, Scientific American's Mind Matters blog, the Howard Hughes Medical Institute, and other print and online publications.
+CONTENT PROVIDED BY
+BrainFacts/SfN
+References
+BrainGate. 2017.
+DARPA and the BRAIN Initiative. DARPA. 2017.
+Graimann B, Allison B, and Pfurtscheller G. Brain–Computer Interfaces: A Gentle Introduction. In: Graimann B, Pfurtscheller G, Allison B. (eds) Brain-Computer Interfaces. The Frontiers Collection. Springer, Berlin, Heidelberg
+. 2010.
+Hochberg LR, Serruya MD, Friehs GM, Mukand JA, Saleh M, et al. Neuronal ensemble control of prosthetic devices by a human with tetraplegia. Nature. 442: 164-171 (2006).
+Hochberg LR, Bacher D, Jarosiewicz B, Masse NY, Simeral JD, et al. . Reach and grasp by people with tetraplegia using a neutrally controlled robotic arm. Nature. 485: 372-375 (2012).
+Leuthardt EC, Roland JL, Ray WZ. Neuroprosthetics. The Scientist. November 1, 2014.
+Peters B, Fried-Oken M. FYI: Brain-Computer Interface. ALS Association. September 2014.
+Shih JJ, Krusienski DJ, Wolpaw JR. Brain-Computer Interfaces in Medicine. Mayo Clinic Proceedings. 87(3): 268-279 (2012).
+Web Focus: Brain-Machine Interfaces. Nature. 2006.
+What is the BRAIN Initiative? NIH. January 19, 2017.
+Related Topics
+Brain Machine Interface
+Neuroprosthetics
+Therapies
+Tools &amp; Techniques
+In the Lab
+Diseases &amp; Disorders
+Also In
+Tools &amp; Techniques
+The Science of Science Outreach
+Sensing Patterns of the Brain
+Scientists Created a Color-Coded Atlas of the Worm Nervous System
+Meet the Inventors of Two-Photon Microscopy
+What’s Going on With Neuralink?
+Patient S.M.
+Trending
+Popular articles on
+BrainFacts.org
+Depression’s Impact on Memory
+ICYMI: COVID-19 Linked to Blood Clots and Strokes
+The Neuron
+What Part of the Brain Deals With Anxiety? What Can Brains Affected by Anxiety Tell us?
+Proteins That Balance Our Moods
+Thinking, Sensing &amp; Behaving
+Aging
+Brain Development
+Childhood &amp; Adolescence
+Diet &amp; Lifestyle
+Emotions, Stress &amp; Anxiety
+Hearing
+Language
+Learning &amp; Memory
+Movement
+Pain
+Sleep
+Smell
+Taste
+Thinking &amp; Awareness
+Touch
+Vision
+See All
+Diseases &amp; Disorders
+Addiction
+Alzheimer's &amp; Dementia
+Cancer
+Childhood Disorders
+Epilepsy
+Immune System Disorders
+Injury
+Mental Health
+Neurodegenerative Disorders
+Infectious Disease
+COVID-19
+Neurological Disorders A-Z
+Therapies
+See All
+Brain Anatomy &amp; Function
+Anatomy
+Body Systems
+Cells &amp; Circuits
+Evolution
+Genes &amp; Molecules
+See All
+Neuroscience in Society
+The Arts &amp; the Brain
+Law, Economics &amp; Ethics
+Neuroscience in the News
+Supporting Research
+Tech &amp; the Brain
+See All
+In the Lab
+Animals in Research
+BRAIN Initiative
+Meet the Researcher
+Neuro-technologies
+Tools &amp; Techniques
+See All</content></page>
