@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that generates personalized, evidence-based patient education materials for lower back pain management using large language models and clinical knowledge bases.
 
-## 🎯 Project Overview
+## Project Overview
 
 This research project develops and evaluates an AI-powered system to create tailored patient education materials for individuals with lower back pain (LBP). The system combines:
 - **Evidence-based health content** from trusted medical sources
@@ -12,7 +12,7 @@ This research project develops and evaluates an AI-powered system to create tail
 
 **Goal:** Generate high-quality, personalized education materials that are accurate, complete, readable, and tailored to individual patient characteristics and beliefs about back pain.
 
-## 📁 Repository Structure
+## Repository Structure
 
 This repository contains three main modules that form a complete pipeline from data collection to evaluation:
 
@@ -24,9 +24,9 @@ rag-for-lbp-github/
 └── README.md             # This file
 ```
 
-## 🗺️ Module Tour
+## Module Tour
 
-### 1. 📊 Crawling Module ([`crawling/`](crawling/README.md))
+### 1. Crawling Module ([`crawling/`](crawling/README.md))
 
 **What it does:** Collects and processes health education content about lower back pain from authoritative sources.
 
@@ -44,11 +44,11 @@ rag-for-lbp-github/
 
 **Output:** Structured XML files ready for embedding and retrieval
 
-👉 [View Crawling Module Details](crawling/README.md)
+[View Crawling Module Details](crawling/README.md)
 
 ---
 
-### 2. 🤖 LangChain Testing Module ([`langchain_testing/`](langchain_testing/README.md))
+### 2. LangChain Testing Module ([`langchain_testing/`](langchain_testing/README.md))
 
 **What it does:** Implements the RAG system that generates personalized patient education materials.
 
@@ -84,11 +84,11 @@ rag-for-lbp-github/
 
 **Output:** CSV files with generated education materials for evaluation
 
-👉 [View LangChain Testing Module Details](langchain_testing/README.md)
+[View LangChain Testing Module Details](langchain_testing/README.md)
 
 ---
 
-### 3. 📈 Evaluation Module ([`evaluation/`](evaluation/README.md))
+### 3. Evaluation Module ([`evaluation/`](evaluation/README.md))
 
 **What it does:** Assesses the quality of generated education materials through expert evaluation and readability analysis.
 
@@ -126,11 +126,11 @@ rag-for-lbp-github/
 
 **Output:** Statistical reports, visualization plots, aggregated metrics
 
-👉 [View Evaluation Module Details](evaluation/README.md)
+[View Evaluation Module Details](evaluation/README.md)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -180,7 +180,7 @@ python evaluation_metrics.py
 python radar_plot.py
 ```
 
-## 🔬 Research Workflow
+## Research Workflow
 
 ### End-to-End Pipeline
 
@@ -225,7 +225,7 @@ python radar_plot.py
    - ICC calculation for inter-rater agreement
    - Consistency analysis
 
-## 📊 Key Findings (Preliminary)
+## Key Findings (Preliminary)
 
 Based on radar plot analysis:
 
@@ -242,7 +242,7 @@ Based on radar plot analysis:
 - GPT-4 RAGFS: 103.33 (extremely readable)
 - GPT-4o RAGFS: 95.73 (6th-7th grade level)
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Language Models:** OpenAI GPT-4, GPT-4o, GPT-3.5-turbo, Llama3
 - **Framework:** LangChain (RAG orchestration)
@@ -253,21 +253,21 @@ Based on radar plot analysis:
 - **Visualization:** Plotly
 - **Readability:** fkscore (Flesch-Kincaid)
 
-## 📖 Documentation
+## Documentation
 
 Each module has detailed documentation:
 - [Crawling Module README](crawling/README.md) - Data collection pipeline
 - [LangChain Testing README](langchain_testing/README.md) - RAG implementation
 - [Evaluation Module README](evaluation/README.md) - Assessment framework
 
-## 🔒 Security & Privacy
+## Security & Privacy
 
 - API keys stored in `.env` files (not committed to repository)
 - `.gitignore` prevents accidental key exposure
 - Synthetic patient profiles used for testing (no real patient data)
 - Health information sourced from public, authoritative websites
 
-## 📝 Data Sources
+## Data Sources
 
 Content is collected from trusted health organizations:
 - **MedlinePlus** (U.S. National Library of Medicine)
@@ -279,25 +279,15 @@ Content is collected from trusted health organizations:
 
 All sources are properly cited and URLs preserved in metadata.
 
-## 🤝 Contributing
+## Contributing
 
 This is a research project. For questions or collaboration inquiries, please open an issue or contact the repository maintainers.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This system is designed for research purposes. Generated patient education materials should be reviewed by qualified healthcare professionals before clinical use. The system does not provide medical advice, diagnosis, or treatment.
 
-## 📄 License
-
-[Add your license information here]
-
-## 👥 Authors & Acknowledgments
-
-[Add author information and acknowledgments here]
-
----
-
-## 🗂️ File Structure Overview
+## File Structure Overview
 
 ```
 rag-for-lbp-github/
@@ -335,7 +325,7 @@ rag-for-lbp-github/
 └── README.md                          # This file (Project Overview)
 ```
 
-## 🔄 Typical Use Case
+## Typical Use Case
 
 **Scenario:** Generate personalized back pain education for a patient who:
 - Works full-time at a desk job
